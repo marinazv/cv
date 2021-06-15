@@ -1,0 +1,40 @@
+/*css*/
+h1{
+    font-size: 35px;
+    color: #005677;
+    text-transform: uppercase;
+    letter-spacing: 35px;
+    background-color: #C4C4C4;
+    ;
+    ;
+}
+.li-datos{
+        font-style: italic;
+        font-weight: bold;
+        font-size: 15px;
+}
+li{
+    font-size: 15px;
+}
+h2{
+    font-size: 20px;
+    color: #005677;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    background-color: #C4C4C4;
+    ;
+    ;
+}
+.p-pie{
+    background-color: #005677;
+    color:#FFFFFF;
+    font-size: 20px;
+    ;
+}
+span{
+    font-weight: bold;
+    font-size: 15px;
+}
+header{
+    background-color: #E5E5E5;
+}
